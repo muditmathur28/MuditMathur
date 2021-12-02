@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HardyGamerX
+- 👋 Hi, I’m @TheBadLad
 - 👀 I’m interested in Coding & Gaming!
 - 🌱 I’m currently learning Javascript!
 - 💞️ I’m looking to collaborate on Coding & ESports!
