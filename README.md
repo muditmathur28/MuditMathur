@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tryhard Boi
+- 👋 Hi, I’m @muditmathur28
 - 👀 I’m interested in Coding, Designing & Gaming!
 - 🌱 I’m currently learning Python, Graphic Designing & More...!
 - 💞️ I’m looking to collaborate on Programming & ESports!
